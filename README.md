@@ -1,4 +1,5 @@
 # video processing and application
+**Author**: Jinling XING jinling.xing@polymtl.ca
 ## TP1 problem:
 TP1 is about video segmentation. What I did in this TP is that I substracted foreground and background using two methods: GMM and Optical flow and tested the performances of GMM and Optical flow with three special cases in the dataset(highway video with 1700 frames). I wrote the detailed implementation steps on the report and compared the output images with groundtruth to evaluate the performance of these two method.
 
