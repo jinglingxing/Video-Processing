@@ -1,6 +1,8 @@
 # video processing and application
 ## TP1 problem:
-TP1 is about video segmentation, comparing two methods, GMM and Optical flow. The detailed info, please click the link: [TP1 questions](https://github.com/jinglingxing/Video-Processing/blob/master/TP1/INF6803_H2018_TP1_EN_v2.pdf)
+TP1 is about video segmentation. What I did in this TP is that I substracted foreground and background using two methods in the dataset(1700 frames), GMM and Optical flow and tested the performances of GMM and Optical flow in three cases. I wrote the implementation steps on the report and compared the output and groundtruth to evaluate the performance of my codes.
+
+The detailed info of questions, please click the link: [TP1 questions](https://github.com/jinglingxing/Video-Processing/blob/master/TP1/INF6803_H2018_TP1_EN_v2.pdf)
 
 This dataset including 1700 frames, which is on the baseline of highway.zip. Website link: [Dataset](http://jacarini.dinf.usherbrooke.ca/dataset2012/)
 
