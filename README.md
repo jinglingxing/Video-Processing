@@ -12,3 +12,14 @@ I wrote two methods: GMM(Gaussian Mixture model). Code: [GMM](https://github.com
 one is Optical flow. Code: [Optical flow](https://github.com/jinglingxing/Video-Processing/blob/master/TP1/INF6803_TP1_PART2.m)
 
 The detailed implementation and analysis is on report. [Report](https://github.com/jinglingxing/Video-Processing/blob/master/TP1/tp1-inf6803-video.pdf)
+
+## TP2 problem:
+TP2 used color histogram and SIFT for the description of regions ofinterest in images, and determine which method is better, and under which circumstances. I wrote the detailed implementation steps on the report and calculated cosine similarity of the feature matrics of two images to evaluate the performance of these two method.
+
+The detailed info of questions, please click the link: [TP2 questions](https://github.com/jinglingxing/Video-Processing/blob/master/TP2/INF6803_H2018_TP2_EN_v01.pdf)
+
+I wrote two methods: color histogram Code: [color histogram](https://github.com/jinglingxing/Video-Processing/blob/master/TP2/tp2part1.m)
+
+one is SIFT. Code: [SIFT](https://github.com/jinglingxing/Video-Processing/blob/master/TP2/tp2part2.m)
+
+The detailed implementation and analysis is on report.
