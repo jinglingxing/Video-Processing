@@ -22,4 +22,4 @@ I wrote two methods: color histogram Code: [color histogram](https://github.com/
 
 one is SIFT. Code: [SIFT](https://github.com/jinglingxing/Video-Processing/blob/master/TP2/tp2part2.m)
 
-The detailed implementation and analysis is on report.
+The detailed implementation and analysis is on report. [Report](https://github.com/jinglingxing/Video-Processing/blob/master/TP2/tp2-inf6803-video.pdf)
