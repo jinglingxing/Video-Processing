@@ -27,3 +27,7 @@ To check the two methods:
 * SIFT. Code: [SIFT](https://github.com/jinglingxing/Video-Processing/blob/master/TP2/tp2part2.m)
 
 The implementation and detailed analysis can be seen by clicking [Report](https://github.com/jinglingxing/Video-Processing/blob/master/TP2/tp2-inf6803-video.pdf)
+
+## TP3 problem:
+TP3 is about object tracking. Based on the work of KCF and SAMF, I changed the run_tracker and show_video code of their projects. Finally, I got a .txt file of the data given by professor, and the professor will evaluate the performace with their groundtruth. 
+
